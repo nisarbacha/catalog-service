@@ -1,0 +1,29 @@
+{
+  "editor.fontFamily": "Operator Mono  Light",
+  "yaml.schemas": {
+    "file:///c%3A/Users/nisar/.vscode/extensions/atlassian.atlascode-3.2.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "redhat.telemetry.enabled": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.fontFamily": "monospace",
+  "workbench.colorTheme": "Snazzy Plus - Darker w/ Italics",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.autofetch": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "git.openRepositoryInParentFolders": "never",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.productIconTheme": "macos-modern",
+  "terminal.integrated.fontWeightBold": "bold",
+  "editor.letterSpacing": 0.5,
+  "window.zoomLevel": 1,
+  "editor.lineHeight": 2,
+  "git.enableSmartCommit": true,
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "material-icon-theme"
+}
